@@ -1,0 +1,18 @@
+body{
+    background-image:linear-gradient(135deg,rgb(226, 85, 85) 0% , rgb(182, 60, 156) 100%);
+}
+.col-md-7{
+    margin-top: 150px !important;
+    background-color: white;
+    padding: 20px !important;
+    
+}
+h1{
+    background-color:blue;
+    color: aliceblue;
+}
+input,label{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
